@@ -29,11 +29,11 @@ Note : Do not alterany path or change any name of files/folder
 - Inside ***videos*** folder, you'll find your downloaded video.
 ![](Screenshots/File_downloaded.png)
 
-Note : During searching and downloading, because of network strength, window title might show not responding. No need to panic, download/search won't interrupt and as soon as your search completes or video downloads, not responding label will be gone too.
+Note : During searching and downloading, because of low network strength, window title might show **Not Responding** label. No need to panic, download/search won't interrupt and as soon as your search completes or video downloads, **Not Responding** label will be gone too.
 
 ### Limitations
 - It might not work on some videos not having 720p mp4 as file format.
-- Don't have download bar.
+- It doesn't have download bar.
 
 ### Future Versions
 - List of Supported formats
