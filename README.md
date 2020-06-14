@@ -1,6 +1,6 @@
 # Youtube Downloader
 
-### An application for downloading youtube videos
+An application for downloading youtube videos
 ### Build using python
 #### Libraries Used
 - pytube
